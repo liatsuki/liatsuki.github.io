@@ -45,9 +45,6 @@ span {
 }
 
 #button:hover {
-    display: inline-block;
-    background-color: #C34959;
-    box-shadow: 5px 5px 0px black; /** eixo X, eixo y, blur, cor **/
-    padding: 18px 20px;
-    margin-right: 0px;
+    /** background-color: #C34959; **/
+    transform: scale(1.08);
 }
