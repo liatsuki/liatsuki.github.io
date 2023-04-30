@@ -1,0 +1,12 @@
+#button {
+    display: inline-block;
+    background-color: #d95263;
+    box-shadow: 5px 5px 0px black; /** eixo X, eixo y, blur, cor **/
+    padding: 18px 20px;
+    margin-right: 0px;
+}
+
+#button:hover {
+    /** background-color: #C34959; **/
+    transform: scale(1.08);
+}
