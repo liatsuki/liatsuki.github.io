@@ -6,7 +6,7 @@
 }
 
 .main-title.-second {
-    color: #A1354D;
-    text-shadow: none;
+    /** color: #A1354D; **/
+    /** text-shadow: none; **/
     text-align: center;
 }
