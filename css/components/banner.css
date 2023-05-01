@@ -22,14 +22,4 @@
 .banner .navigation {
     display: flex;
     justify-content: space-around;
-
-}
-
-.banner .button {
-    background-color: #A1354D;
-}
-
-.banner .button:hover {
-    background-color: #F5CAC3;
-    color: #A1354D;
 }
