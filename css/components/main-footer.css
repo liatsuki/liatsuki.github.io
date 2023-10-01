@@ -1,0 +1,11 @@
+.main-footer {
+    display: flex;
+    justify-content: center;
+    background-color: #000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: #fff;
+    cursor: pointer;
+}

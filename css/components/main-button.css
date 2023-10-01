@@ -9,6 +9,7 @@
     font-size: 20px;
     color: #fff;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .main-button:hover {
@@ -24,4 +25,12 @@
 .main-button.-second:hover {
     background-color: #F5CAC3;
     color: #A1354D;
+}
+
+.main-button.-full {
+    width: 100%;
+}
+
+.main-button.-full:hover {
+    transform: scale(1.01);
 }
